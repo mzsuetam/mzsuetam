@@ -1,4 +1,6 @@
-### m_zsuetam
+## Mateusz Mazur
+
+### about me:
 - 🔭 I’m currently working on python pygame project: ping pong
 - 🌱 I’m currently learning python and C
 - 💬 Ask me about graphic design
