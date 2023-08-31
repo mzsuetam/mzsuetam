@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects and c
 
 💼 Work: I am currently working as a C++ backend programmer at [Progress and Business Foundation](http://www.pbf.pl/).
 
-🤟 Passions: Coding, Tech, Science, Astronomy, Hiking, Football and Star Wars.
+🤟 Passions: Coding, AI, Deep Learning, Tech, Science, Astronomy, Hiking, Football and Star Wars.
 
 ## Greatest projects 🚀
 
