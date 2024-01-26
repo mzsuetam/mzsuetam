@@ -12,9 +12,9 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects and c
 
 ## Greatest projects 🚀
 
-- **[myAiSD](https://github.com/mzsuetam/myAiSD):** My implementations of some basic algorithrms and data structures. Based on Cormen's "Introduction to algorithms".
 - **[Krecik](https://github.com/mzsuetam/krecik):** Interpreter of a procedural programming language.
 - **[Symulacja ruchu drogowego na przykłądzie ronda Reunwaldzkiego w Krakowie](https://github.com/coado/discrete-systems-simulation/)** Simulation of pedestrian and vehicular traffic at the Rondo Grunwaldzkie in Kraków, Poland
+- **[myAiSD](https://github.com/mzsuetam/myAiSD):** My implementations of some basic algorithrms and data structures. Based on Cormen's "Introduction to algorithms".
 
 Feel free to explore each project repository for more details, documentation, and source code.
 
