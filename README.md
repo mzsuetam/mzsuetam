@@ -1,69 +1,65 @@
 # Hi, I'm Mateusz! 👋
 
-Welcome to my GitHub profile! Here you'll find a collection of my projects and contributions.
+Welcome! I'm a Computer Science student and C++ backend developer passionate about AI, Deep Learning, and tech in general.
 
-## Something about me 👨‍💻
+## About 👨‍💻
 
-🎓 Education: Currently studying at AGH University Of Science and Technology in Cracow. Pursuing Computer Science and Intelligent Systems.
+🎓 **Education:** MS in Computer Science and Intelligent Systems at AGH University of Kraków (2025–present), previously earned a BS in the same field (2021–2025).
 
 💼 Work: I am currently working as a C++ backend programmer at [Progress and Business Foundation](http://www.pbf.pl/).
 
-🤟 Passions: Coding, AI, Deep Learning, Tech, Science, Maths, Phisics, Astronomy, Hiking, Football and Star Wars.
+🤟 Passions: Coding, AI, Deep Learning, Tech, Science, ZHP, Football and Star Wars.
 
-## Greatest projects 🚀
+## Projects 🚀
 
-- **[Krecik](https://github.com/mzsuetam/krecik):** Interpreter of a procedural programming language.
-- **[Symulacja ruchu drogowego na przykładzie ronda Grunwaldzkiego w Krakowie](https://github.com/coado/discrete-systems-simulation/)** Simulation of pedestrian and vehicular traffic at the Rondo Grunwaldzkie in Kraków, Poland
-- **[myAiSD](https://github.com/mzsuetam/myAiSD):** My implementations of some basic algorithrms and data structures. Based on Cormen's "Introduction to algorithms".
+- **OSM Data Augmentation (2024-2025)** A system using machine learning and aerial imagery to automatically augment street parking orientation data in OpenStreetMap.
+- **AN backend (2022-present)** Server and core logic for a graph-based decision-making application.
+- **[Knowledge Distillation (2024)](https://github.com/mzsuetam/gigsn-proj)** Training smaller neural networks that retain high performance while reducing model size and computation.
+- **[DSS (2024)](https://github.com/coado/discrete-systems-simulation/)** Simulation of pedestrian and vehicular traffic at Rondo Grunwaldzkie in Kraków, Poland using a discrete system.
+- **[Krecik (2023)](https://github.com/mzsuetam/krecik):** Interpreter for a procedural programming language.
+- **[myAiSD (2022)](https://github.com/mzsuetam/myAiSD):** Implementations of basic algorithms and data structures, based on Cormen's Introduction to Algorithms.
 
 Feel free to explore each project repository for more details, documentation, and source code.
 
 ## Contact 📬
 
-If you have any questions, suggestions, or just want to connect, feel free to reach out to me via email at [m-mazur@wp.pl](mailto:m-mazur@wp.pl) or through [LinkedIn](https://www.linkedin.com/in/matuesz-mazur-8415bb232/).
+Email: [m-mazur@wp.pl](mailto:m-mazur@wp.pl), [mazurm@student.agh.edu.pl](mailto:mazurm@student.agh.edu.pl) 
+
+LinkedIn: [Mateusz Mazur](https://www.linkedin.com/in/mateusz-mazur-8415bb232/)
 
 ## Technologies 💻
 
-Here are some technologies I use most:
+### Languages:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) \
+And also: C, Bash, JavaScript, TypeScript, HTML5, CSS3
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-  ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-  ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-  ![Clion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 
-And some that I am familiar with:
+### Tools & Platforms:
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) \
+And also: GitHub Actions / GitLab CI, SQLite, MySQL, Postman, QGIS
 
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-  ![Sonar](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white)
-  ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 
- <!-- https://ileriayo.github.io/markdown-badges -->
+### Libraries & Frameworks:
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/OpenCV-%23FFFFFF.svg?style=for-the-badge&logo=opencv&logoColor=black) \
+And also: Angular, FastAI, FastAPI, Django, QT, CppRestSDK
+
+<!-- https://ileriayo.github.io/markdown-badges -->
+
+---
+
+![Mateusz's Stats](https://github-readme-stats.vercel.app/api?username=mzsuetam&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
