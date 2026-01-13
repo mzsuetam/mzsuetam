@@ -6,12 +6,14 @@ Welcome! I'm a Computer Science student and C++ backend developer passionate abo
 
 🎓 **Education:** MS in Computer Science and Intelligent Systems at AGH University of Kraków (2025–present), previously earned a BS in the same field (2021–2025).
 
-💼 Work: I am currently working as a C++ backend programmer at [Progress and Business Foundation](http://www.pbf.pl/).
+💼 **Work**: I am currently working as a Scientific and Didactic Intern (stażysta naukowo-dydaktyczny) at the AGH University of Krakow \
+and as a C++ backend programmer at Progress and Business Foundation.
 
-🤟 Passions: Coding, AI, Deep Learning, Tech, Science, ZHP, Football and Star Wars.
+🤟 **Passions**: Coding, AI, Deep Learning, Tech, Science, ZHP, Football and Star Wars.
 
 ## Projects 🚀
 
+- **[Aerial Image Segmentation](https://github.com/mzsuetam/computational-intelligence-proj)** A comparative study of CSE-UNet vs. standard UNet architectures. This research highlights the importance of architectural stability and contextual features in remote sensing.
 - **OSM Data Augmentation (2024-2025)** A system using machine learning and aerial imagery to automatically augment street parking orientation data in OpenStreetMap.
 - **AN backend (2022-present)** Server and core logic for a graph-based decision-making application.
 - **[Knowledge Distillation (2024)](https://github.com/mzsuetam/gigsn-proj)** Training smaller neural networks that retain high performance while reducing model size and computation.
