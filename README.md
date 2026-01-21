@@ -13,7 +13,8 @@ and as a C++ backend programmer at Progress and Business Foundation.
 
 ## Projects 🚀
 
-- **[Aerial Image Segmentation](https://github.com/mzsuetam/computational-intelligence-proj)** A comparative study of CSE-UNet vs. standard UNet architectures. This research highlights the importance of architectural stability and contextual features in remote sensing.
+- **[Aerial Image Segmentation (2025-26)](https://github.com/mzsuetam/computational-intelligence-proj)** A comparative study of CSE-UNet vs. standard UNet architectures. This research highlights the importance of architectural stability and contextual features in remote sensing.
+- **[Advanced Data Analysis Toolkit (2025-26)](https://github.com/Iriide/Advanced-Data-Analysis-Toolkit)** A generative AI solution for automated database analysis and visualization using RAG. Built with a focus on advanced Python techniques, including comprehensive testing, containerization, and modular architecture.
 - **OSM Data Augmentation (2024-2025)** A system using machine learning and aerial imagery to automatically augment street parking orientation data in OpenStreetMap.
 - **AN backend (2022-present)** Server and core logic for a graph-based decision-making application.
 - **[Knowledge Distillation (2024)](https://github.com/mzsuetam/gigsn-proj)** Training smaller neural networks that retain high performance while reducing model size and computation.
